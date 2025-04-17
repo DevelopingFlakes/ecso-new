@@ -5,8 +5,8 @@
         <div class="custom-container">
             <div class="custom-row align-items-end justify-content-between">
                 <div class="left-content">
-                    <a href="index.html" class="logo">
-                        <img src="<?= $logo; ?>" alt="Logo" width="75" />
+                    <a href="<?= $url; ?>" class="logo">
+                        <img src="cdn/banner.png" alt="Logo" width="200" />
                     </a>
                     <p>
                         ECSO has been offering hosting & housing for <br>
@@ -49,9 +49,8 @@
                 <div class="footer-all-links-wrap justify-content-between d-flex">
 
                     <div class="footer-links">
-                        <h3>We are Helping</h3>
+                        <h3></h3>
                         <ul>
-                            <li><a href="<?= $url; ?>sponsoring">Sponsoring</a></li>
                         </ul>
                     </div>
 
@@ -78,8 +77,10 @@
                     </div>
 
                     <div class="footer-links">
-                        <h3>Our Fields</h3>
+                        <h3>Learn More</h3>
                         <ul>
+                            <li><a href="<?= $url; ?>sponsoring">Sponsoring</a></li>
+                            <li><a href="<?= $url; ?>press">Press-Area</a></li>
                         </ul>
                     </div>
 

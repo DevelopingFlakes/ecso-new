@@ -10,7 +10,7 @@
                 <div class="custom-row align-items-center justify-content-between">
                     <div class="header-left d-flex align-items-center">
                         <a href="<?= $url; ?>" class="logo">
-                            <img src="<?= $logo; ?>" alt="Logo" width="50" />
+                            <img src="cdn/banner_blue.png" alt="Logo" width="200" />
                         </a>
 
                         <div class="header-left-right">
