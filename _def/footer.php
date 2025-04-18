@@ -80,7 +80,7 @@
                         <h3>Learn More</h3>
                         <ul>
                             <li><a href="<?= $url; ?>sponsoring">Sponsoring</a></li>
-                            <li><a href="<?= $url; ?>press">Press-Area</a></li>
+                            <!--<li><a href="<?= $url; ?>press">Press-Area</a></li>-->
                         </ul>
                     </div>
 
@@ -88,8 +88,8 @@
                         <h3>Legal</h3>
                         <ul>
                             <li><a href="<?= $url; ?>imprint">Imprint</a></li>
-                            <li><a href="<?= $url; ?>data-privacy">Data Privacy</a></li>
-                            <li><a href="<?= $url; ?>tos">Terms of Service</a></li>
+                            <!--<li><a href="<?= $url; ?>data-privacy">Data Privacy</a></li>
+                            <li><a href="<?= $url; ?>tos">Terms of Service</a></li>-->
                             <li><a href="mailto:abuse@ecso.cloud">Abuse</a></li>
                             <li><a href="mailto:legal@ecso.cloud">Legal Contact</a></li>
                         </ul>
