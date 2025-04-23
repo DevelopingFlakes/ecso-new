@@ -22,4 +22,16 @@ $url = "https://ecso.cloud/";
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/responsive.css">
+
+    <!-- -->
+    <meta property="og:title" content="IT Provider for 100.000 Companies | ECSO Cloud">
+    <meta property="og:description" content="Secure and fast cloud hosting from Germany for startups, agencies and developers.">
+    <meta property="og:url" content="https://ecso.cloud/">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="<?= $logo; ?>">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="IT Provider for 100.000 Companies | ECSO Cloud">
+    <meta name="twitter:description" content="Secure and fast cloud hosting from Germany for startups, agencies and developers.">
+    <meta name="twitter:image" content="<?= $logo; ?>">
 </head>
