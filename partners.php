@@ -32,7 +32,22 @@
             </div>
             <div class="right">
                 <div class="partners-list-wrap">
-                    
+
+                    <div class="partners-list-inner">
+                        <div class="partner-box">
+                            <img src="cdn/logos/telekom.png" width="150" alt="Client">
+                        </div>
+                        <div class="partner-box">
+                            <img src="cdn/logos/kevag.png" width="200" alt="Client">
+                        </div>
+                        <div class="partner-box">
+                            <img src="cdn/logos/vodafone.png" width="150" alt="Client">
+                        </div>
+                        <div class="partner-box">
+                            <img src="cdn/logos/datapacket.png" width="150" alt="Client">
+                        </div>
+                    </div>
+
                     <div class="partners-list-inner">
                         <div class="partner-box">
                             <img src="cdn/logos/evernote.png" alt="Client">

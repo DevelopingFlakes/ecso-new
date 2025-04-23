@@ -27,6 +27,20 @@
     <div class="custom-container">
         <p>ECSO is the provider for Hosting & Housing for over 100.000 Companies worldwide.</p>
         <div class="clients clients-marquee d-flex align-items-center">
+
+            <div class="client-logo simple-shadow">
+                <img src="cdn/logos/telekom.png" alt="Client" width="150" />
+            </div>
+            <div class="client-logo simple-shadow">
+                <img src="cdn/logos/vodafone.png" alt="Client" width="150" />
+            </div>
+            <div class="client-logo simple-shadow">
+                <img src="cdn/logos/kevag.png" alt="Client" width="180" />
+            </div>
+            <div class="client-logo simple-shadow">
+                <img src="cdn/logos/datapacket.png" alt="Client" width="200" />
+            </div>
+
             <div class="client-logo simple-shadow">
                 <img src="cdn/logos/afterpay.png" alt="Client" />
             </div>
