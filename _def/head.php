@@ -25,10 +25,10 @@ $url = "https://ecso.cloud/";
 
     <!-- -->
     <meta property="og:title" content="IT Provider for 100.000 Companies | ECSO Cloud">
-    <meta property="og:description" content="Secure and fast cloud hosting from Germany for startups, agencies and developers.">
+    <meta property="og:description" content="Secure and fast cloud hosting from Germany for companies, agencies and developers.">
     <meta property="og:url" content="https://ecso.cloud/">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="<?= $logo; ?>">
+    <meta name="theme-color" content="#1461de">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="IT Provider for 100.000 Companies | ECSO Cloud">
