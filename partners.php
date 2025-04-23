@@ -35,7 +35,7 @@
 
                     <div class="partners-list-inner">
                         <div class="partner-box">
-                            <img src="cdn/logos/telekom.png" width="150" alt="Client">
+                            <img src="cdn/logos/telekom.png" width="100" alt="Client">
                         </div>
                         <div class="partner-box">
                             <img src="cdn/logos/kevag.png" width="200" alt="Client">

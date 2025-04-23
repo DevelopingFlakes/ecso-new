@@ -29,7 +29,7 @@
         <div class="clients clients-marquee d-flex align-items-center">
 
             <div class="client-logo simple-shadow">
-                <img src="cdn/logos/telekom.png" alt="Client" width="150" />
+                <img src="cdn/logos/telekom.png" alt="Client" width="100" />
             </div>
             <div class="client-logo simple-shadow">
                 <img src="cdn/logos/vodafone.png" alt="Client" width="150" />
